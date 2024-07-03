@@ -78,7 +78,7 @@ export default {
       showShoppingCart: false,
       showCheckout: false,
       orderSubmitted: false,
-      baseUrl: 'http://localhost:3000',
+      baseUrl: 'https://cw2-backend-brs7.onrender.com',
       showInstallPrompt: false,
       deferredPrompt: null
     };
